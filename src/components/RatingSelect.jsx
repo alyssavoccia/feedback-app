@@ -87,7 +87,7 @@ function RatingSelect({ select }) {
       <li>
         <input 
           type='radio'
-          id='num6'
+          id='num7'
           name='rating'
           value='7'
           onChange={handleChange}
